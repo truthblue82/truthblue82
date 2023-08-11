@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @truthblue82
+- 👋 Hi, I’m Yen Truong
 - 👀 I’m interested in IT
-- 🌱 I’m currently learning nodejs and reactjs
+- 🌱 I’m currently work as PHP | MERN | MEAN stack.
 - 💞️ ...
 - 📫 ...
 
